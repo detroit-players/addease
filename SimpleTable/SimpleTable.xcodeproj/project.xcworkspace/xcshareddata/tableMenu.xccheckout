@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B79ECB72-BA6A-409E-B0C8-BBB21FF4B6AB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>tableMenu</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0F0A698B6A5E6A5B071068B6D99CFE4DDA38577F</key>
+		<string>github.com:detroit-players/addease.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>tableMenu.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0F0A698B6A5E6A5B071068B6D99CFE4DDA38577F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:detroit-players/addease.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0F0A698B6A5E6A5B071068B6D99CFE4DDA38577F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0F0A698B6A5E6A5B071068B6D99CFE4DDA38577F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>addease</string>
+		</dict>
+	</array>
+</dict>
+</plist>
